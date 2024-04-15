@@ -100,7 +100,7 @@ function Signup() {
         </fieldset>
 
         <Link to="/account-settings">
-          <button className="p-2 mt-[25%] w-[95%] bg-[#6c25ff] text-white rounded-md font-semibold">
+          <button className="p-2 mt-[10%] w-[95%] bg-[#6c25ff] text-white rounded-md font-semibold">
             Create Account
           </button>
         </Link>
