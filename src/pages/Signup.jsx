@@ -9,7 +9,7 @@ function Signup() {
       <form>
         <label
           htmlFor="fullName"
-          className="text-[#6c25ff] font-semibold relative top-[18px] left-[8px] bg-white"
+          className="text-[#6c25ff] font-semibold relative top-[18px] left-[8px] bg-[#f7f8f9]"
         >
           Full Name <span className="text-[#FF0000]">*</span>
         </label>
@@ -22,7 +22,7 @@ function Signup() {
         ></input>
         <label
           htmlFor="PhoneNumber"
-          className="text-[#6c25ff] font-semibold relative top-[22px] left-[8px] bg-white"
+          className="text-[#6c25ff] font-semibold relative top-[22px] left-[8px] bg-[#f7f8f9]"
         >
           Phone Number<span className="text-[#FF0000]">*</span>
         </label>
@@ -36,7 +36,7 @@ function Signup() {
 
         <label
           htmlFor="email"
-          className="text-[#6c25ff] font-semibold relative top-[22px] left-[8px] bg-white"
+          className="text-[#6c25ff] font-semibold relative top-[22px] left-[8px] bg-[#f7f8f9]"
         >
           Email Address<span className="text-[#FF0000]">*</span>
         </label>
@@ -50,7 +50,7 @@ function Signup() {
 
         <label
           htmlFor="Password"
-          className="text-[#6c25ff] font-semibold relative top-[22px] left-[8px] bg-white"
+          className="text-[#6c25ff] font-semibold relative top-[22px] left-[8px] bg-[#f7f8f9]"
         >
           Password<span className="text-[#FF0000]">*</span>
         </label>
@@ -64,7 +64,7 @@ function Signup() {
 
         <label
           htmlFor="CompanyName"
-          className="text-[#6c25ff] font-semibold relative top-[22px] left-[8px] bg-white"
+          className="text-[#6c25ff] font-semibold relative top-[22px] left-[8px] bg-[#f7f8f9]"
         >
           Company Name
         </label>
