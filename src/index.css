@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  background-color: #f7f8f9;
+}
+
+/* Home page css */
+
+/* Signup Page */
+input[type="radio"] {
+  accent-color: #6c25ff;
+  width: 19px;
+  height: 19px;
+}
+
+/* account settings */
+img {
+  border-radius: 50%;
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+}
+
+.camera_icon_box {
+  width: 30px;
+  height: 30px;
+}
+
+.camera_icon {
+  color: white;
+}
+
+hr {
+  border: 2px dashed #d1d1d2;
+}
