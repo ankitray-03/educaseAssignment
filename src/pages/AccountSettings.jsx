@@ -15,7 +15,7 @@ function AccountSettings() {
           {" "}
           <IoCameraSharp className="camera_icon w-[20px] h-[20px] relative left-[5px] top-1 bg-[#6c25ff]" />
         </div>
-        <div className="float-right relative bottom-[130px] right-[120px]">
+        <div className="float-right relative bottom-[130px] right-[100px]">
           <h3 className="font-bold text-1xl">Marry Doe</h3>
           <h4>Marry@gmail.com</h4>
         </div>
@@ -26,7 +26,7 @@ function AccountSettings() {
           nobis quasi.
         </p>
 
-        <hr className="relative top-[450px]"></hr>
+        <hr className="relative top-[400px]"></hr>
       </div>
     </>
   );
